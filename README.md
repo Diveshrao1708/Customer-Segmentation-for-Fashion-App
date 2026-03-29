@@ -171,11 +171,3 @@ plt.show()
 
 ---
 
-## Author
-
-**Name:** Anshuman Gupta
-
-**GitHub:** [https://github.com/anshuman183](https://github.com/anshuman183)
-
-**LinkedIn:** [linkedin.com/in/anshuman-gupta-884b5624a](linkedin.com/in/anshuman-gupta-884b5624a)
-
